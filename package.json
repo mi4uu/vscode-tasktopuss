@@ -3,6 +3,7 @@
   "displayName": "vscode-tasktopuss",
   "description": "discover and run tasks form npm,bun,typescript,just, etc.",
   "version": "0.0.1",
+  "license": "AGPL-3.0-or-later",
   "engines": {
     "vscode": "^1.96.0"
   },
